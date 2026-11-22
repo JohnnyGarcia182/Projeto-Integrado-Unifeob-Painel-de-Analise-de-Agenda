@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+
+# documentos da entrega (dados pessoais e da empresa) e arquivos de apoio locais
+entrega/
+docs/*.docx
+docs/gerar_relatorio.py
+docs/roteiro-video.md
